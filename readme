@@ -1,5 +1,5 @@
 操作系统： windows 10
 Python环境： 3.7.2
-IED: Pycharm
+IDE: Pycharm
 第三方包安装： pip install wxpy
               pip install pillow

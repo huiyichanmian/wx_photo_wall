@@ -2,6 +2,8 @@
 # @Author  : Christian
 # @File    : Wechat_Photo_Wall.py
 
+# 获取微信好友照骗墙
+
 from wxpy import *
 import PIL.Image as Image
 import os
